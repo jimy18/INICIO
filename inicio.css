@@ -1,0 +1,62 @@
+body,html
+{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+footer
+{
+  background-color:#e5e5e5;
+  color: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+.footr  ul, li {
+
+				list-style:none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: green;
+			}
+nav
+{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+
+}
+ul, li {
+
+				list-style:none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: gray;
+			}
+
+a
+  {
+
+        float: left;
+
+        color: white;
+        text-align: center;
+        padding: 15px;
+        text-decoration: none;
+  }
+a:hover
+  {
+        background-color: black;
+  }
+  .copy
+  {
+
+    color: white;
+    float: right;
+    width: 200px;
+  }
